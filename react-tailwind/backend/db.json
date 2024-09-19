@@ -1,0 +1,28 @@
+{
+  "users": [
+    {
+      "id": "3086",
+      "username": "yusuff_dev",
+      "email": "yusuffdeveloper@gmail.com",
+      "password": "1234"
+    },
+    {
+      "id": "8e2f",
+      "username": "zabihullox",
+      "email": "zabi@gmail.com",
+      "password": "4321"
+    },
+    {
+      "id": "a78b",
+      "username": "ulug'bek",
+      "email": "ulug'@gmail.com",
+      "password": "1243"
+    },
+    {
+      "id": "2911",
+      "username": "bexruz",
+      "email": "bex@gmail.com",
+      "password": "4312"
+    }
+  ]
+}
